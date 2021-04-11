@@ -1,0 +1,12 @@
+/* TODO: Put your CSS code in here */
+.header {
+  display: flex;
+}
+#weather-result {
+  border-style: solid;
+}
+.f-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
