@@ -17,5 +17,3 @@ def fizz_buzz(number)
     end
   end
 end
-
-p fizz_buzz(27)
